@@ -32,7 +32,7 @@ All outputs include one‑click copy buttons for easy pasting into Fluent or you
 
 
 
-Get the latest standalone `.exe` from the \[Releases](https://github.com/yourusername/reynoldsapp/releases) page.  
+Get the latest standalone `.exe` from the \[Releases](https://github.com/OmarSaifME/reynoldsapp/releases) page.  
 
 No Python installation required.
 
@@ -52,7 +52,7 @@ Clone the repository and install dependencies:
 
 ```bash
 
-git clone https://github.com/yourusername/reynoldsapp.git
+git clone https://github.com/OmarSaifME/reynoldsapp.git
 
 cd reynoldsapp
 
