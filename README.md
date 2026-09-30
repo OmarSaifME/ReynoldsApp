@@ -1,62 +1,27 @@
-\# ReynoldsApp — CFD Assistant
+**Reynolds App** *(Version 3.1)*
 
+A desktop tool for CFD calculations, built with Python and Tkinter.  
 
+Designed to reduce friction during long parametric runs, and automate a few processes.
 
-A lightweight desktop tool for CFD preprocessing, built with Python and Tkinter.  
+-------------
 
-Designed to reduce cognitive friction during solver setup and mesh verification.
+**Features**
 
+&emsp;🛩️ *Angle of Attack*: Compute velocity components and force vectors for Fluent boundary conditions
 
+&emsp;📊 *Reynolds Number*: Convert between Re and flow velocity with fluid property inputs
 
-\## Features
+&emsp;📐 *Grid Convergence Index (GCI)*: Quantify discretization error for mesh refinement studies (Roache method)
 
+-------------
 
+**Download**
 
-\- 🛩️ \*\*Angle of Attack\*\* – Compute velocity components and force vectors for Fluent boundary conditions
+&emsp;⬇️ Get the latest standalone `.exe` from the **Releases** page (https://github.com/OmarSaifME/reynoldsapp/releases).  
 
-\- 📊 \*\*Reynolds Number\*\* – Convert between Re and flow velocity with fluid property inputs
+&emsp;❌ No Python installation required.
 
-\- 📐 \*\*Grid Convergence Index (GCI)\*\* – Quantify discretization error for mesh refinement studies (Roache method)
+-------------
 
-
-
-All outputs include one‑click copy buttons for easy pasting into Fluent or your notes.
-
-
-
-\---
-
-
-
-\## Download
-
-
-
-Get the latest standalone `.exe` from the \[Releases](https://github.com/OmarSaifME/reynoldsapp/releases) page.  
-
-No Python installation required.
-
-
-
-\---
-
-
-
-\## Run from Source
-
-
-
-Clone the repository and install dependencies:
-
-
-
-```bash
-
-git clone https://github.com/OmarSaifME/reynoldsapp.git
-
-cd reynoldsapp
-
-pip install -r requirements.txt
-
-python gui/re\_app\_gui.py
-
+I hope you will find this tool useful in your learning and research. And feedback is always welcome!
