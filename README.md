@@ -1,4 +1,4 @@
-#**Reynolds App** *(Version 3.1)*
+**Reynolds App** *(Version 3.1)*
 
 A desktop tool for CFD calculations, built with Python and Tkinter.  
 
